@@ -8,43 +8,38 @@ export declare const links: ({
     label: string;
     icon: string;
     href: string;
+    initialOpenState?: undefined;
     items?: undefined;
     status?: undefined;
-    calloutClass?: undefined;
 } | {
     label: string;
     icon: string;
+    initialOpenState: boolean;
     items: {
         label: string;
         href: string;
     }[];
     href?: undefined;
     status?: undefined;
-    calloutClass?: undefined;
 } | {
     label: string;
     icon: string;
     href: string;
     status: LinkStatus;
+    initialOpenState?: undefined;
     items?: undefined;
-    calloutClass?: undefined;
 } | {
     label: string;
     icon: string;
-    items: ({
+    items: {
         label: string;
         href: string;
         status: LinkStatus;
-    } | {
-        label: string;
-        href: string;
-        status?: undefined;
-    })[];
-    calloutClass: string;
+    }[];
     href?: undefined;
+    initialOpenState?: undefined;
     status?: undefined;
-})[];
-export declare const socials: ({
+} | {
     label: string;
     icon: string;
     items: {
@@ -52,12 +47,14 @@ export declare const socials: ({
         href: string;
     }[];
     href?: undefined;
-} | {
+    initialOpenState?: undefined;
+    status?: undefined;
+})[];
+export declare const socials: {
     label: string;
     icon: string;
     href: string;
-    items?: undefined;
-})[];
+}[];
 export declare const MENU_HEIGHT = 64;
 export declare const MENU_ENTRY_HEIGHT = 48;
 export declare const SIDEBAR_WIDTH_FULL = 240;
