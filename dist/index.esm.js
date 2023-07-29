@@ -587,7 +587,7 @@ var Icon$Y = function (props) {
 
 var Icon$X = function (props) {
     return (React.createElement(Svg, __assign({ id: "Capa_1", xmlns: "http://www.w3.org/2000/svg", xmlnsXlink: "http://www.w3.org/1999/xlink", x: "0px", y: "0px", viewBox: "0 0 512 512", xmlSpace: "preserve" }, props),
-        React.createElement("style", { type: "text/css" }, "\n\t.st0{fill:url(#SVGID_ROUND512_);}\n\t.st1{fill:url(#SVGID_00000162317287837887181330000017161382233408013729_);}\n"),
+        React.createElement("style", { type: "text/css" }, "\n\t.st5{fill:url(#SVGID_ROUND512_);}\n\t.st6{fill:url(#SVGID_00000162317287837887181330000017161382233408013729_);}\n"),
         React.createElement("g", { id: "logo512" },
             React.createElement("linearGradient", { id: "SVGID_ROUND512_", gradientUnits: "userSpaceOnUse", x1: 149.8175, y1: 289.9049, x2: 362.4535, y2: 77.2689 },
                 React.createElement("stop", { offset: 8.09824e-7, style: {
@@ -632,7 +632,7 @@ var Icon$X = function (props) {
                 React.createElement("stop", { offset: 1, style: {
                         stopColor: "#EB5B28",
                     } })),
-            React.createElement("path", { className: "st0", d: "M220.2,125.8c-14.6-14.6-33.9-23.8-54.6-25c-24-1.4-46.7,7.3-63.5,24.1c-32.3,32.3-32.3,84.9,0,117.2 L236.9,377c5.2,5.2,12.1,7.9,19,7.9c0.1,0,0.1,0,0.2,0c0.1,0,0.1,0,0.2,0c6.9,0,13.7-2.6,19-7.9l133.9-133.9 c32-32,33.5-84.2,2.1-116.9c-16.6-17.3-39.3-26.5-63.4-25.5c-21.1,0.9-41,10.1-55.9,25l-7.8,7.8c-5.2,5.2-5.2,13.6,0,18.8l0.2,0.2 c5.2,5.2,13.5,5.2,18.7,0l8.7-8.7c10.9-10.9,25.3-16.4,39.6-16.4c14.3,0,28.7,5.5,39.6,16.4h0c24.1,19.5,25.8,53.5,3.9,75.4 L256.3,358.1l-0.2-0.2l-0.2,0.2L121.1,223.2c-21.8-21.8-21.8-57.5,0-79.3h0c10.9-10.9,25.3-16.4,39.6-16.4s28.7,5.5,39.6,16.4 l73.7,72.8h-3.3c-7.4,0-13.4,6-13.4,13.4s6,13.4,13.4,13.4l49.1,0v0h0v-49.1c0-7.4-6-13.4-13.4-13.4h0c-7.4,0-13.4,6-13.4,13.4v4 L241,147.2l0.3-0.3L220.2,125.8z" }),
+            React.createElement("path", { className: "st5", d: "M220.2,125.8c-14.6-14.6-33.9-23.8-54.6-25c-24-1.4-46.7,7.3-63.5,24.1c-32.3,32.3-32.3,84.9,0,117.2 L236.9,377c5.2,5.2,12.1,7.9,19,7.9c0.1,0,0.1,0,0.2,0c0.1,0,0.1,0,0.2,0c6.9,0,13.7-2.6,19-7.9l133.9-133.9 c32-32,33.5-84.2,2.1-116.9c-16.6-17.3-39.3-26.5-63.4-25.5c-21.1,0.9-41,10.1-55.9,25l-7.8,7.8c-5.2,5.2-5.2,13.6,0,18.8l0.2,0.2 c5.2,5.2,13.5,5.2,18.7,0l8.7-8.7c10.9-10.9,25.3-16.4,39.6-16.4c14.3,0,28.7,5.5,39.6,16.4h0c24.1,19.5,25.8,53.5,3.9,75.4 L256.3,358.1l-0.2-0.2l-0.2,0.2L121.1,223.2c-21.8-21.8-21.8-57.5,0-79.3h0c10.9-10.9,25.3-16.4,39.6-16.4s28.7,5.5,39.6,16.4 l73.7,72.8h-3.3c-7.4,0-13.4,6-13.4,13.4s6,13.4,13.4,13.4l49.1,0v0h0v-49.1c0-7.4-6-13.4-13.4-13.4h0c-7.4,0-13.4,6-13.4,13.4v4 L241,147.2l0.3-0.3L220.2,125.8z" }),
             React.createElement("linearGradient", { id: "SVGID_00000156567565112329538810000007805456165807314586_", gradientUnits: "userSpaceOnUse", x1: 79.4228, y1: 353.381, x2: 412.8179, y2: 19.9859 },
                 React.createElement("stop", { offset: 8.09824e-7, style: {
                         stopColor: "#6FC7DA",
@@ -816,13 +816,195 @@ var Icon$O = function (props) {
 };
 
 var Icon$N = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 64 64" }, props),
-        React.createElement("path", { d: "M58.62,9.27c-3.32-3.32-7.73-5.14-12.42-5.14s-9.11,1.83-12.44,5.16l-1.74,1.74l-1.76-1.76\r\n\t\tc-3.32-3.32-7.75-5.17-12.45-5.17c-4.68,0-9.1,1.83-12.41,5.14c-3.32,3.32-5.16,7.74-5.14,12.44c0,4.7,1.84,9.1,5.17,12.42\r\n\t\tL30.7,59.37c0.35,0.35,0.82,0.54,1.28,0.54s0.93-0.17,1.28-0.52l25.33-25.24c3.32-3.32,5.16-7.74,5.16-12.44\r\n\t\tC63.76,17.01,61.94,12.6,58.62,9.27z M56.03,31.58L31.98,55.53l-24-24c-2.64-2.64-4.09-6.14-4.09-9.87s1.44-7.23,4.08-9.85\r\n\t\tc2.62-2.62,6.12-4.08,9.84-4.08c3.73,0,7.24,1.45,9.88,4.09l3.04,3.04c0.71,0.71,1.86,0.71,2.57,0l3.02-3.02\r\n\t\tc2.64-2.64,6.15-4.09,9.87-4.09s7.21,1.45,9.85,4.08c2.64,2.64,4.08,6.14,4.08,9.87C60.12,25.44,58.67,28.94,56.03,31.58z" })));
+    return (React.createElement(Svg, __assign({ xmlns: "http://www.w3.org/2000/svg", xmlnsXlink: "http://www.w3.org/1999/xlink", x: "0px", y: "0px", viewBox: "0 0 90 90", xmlSpace: "preserve" }, props),
+        React.createElement("style", { type: "text/css" }, "\n\t.st0{fill:url(#SVGID_LOGO90_);}\n\t.st1{fill:url(#SVGID_00000036243686468858793310000000630276973099152815_);}\n"),
+        React.createElement("g", { id: "LOGO90" },
+            React.createElement("linearGradient", { id: "SVGID_LOGO90_", gradientUnits: "userSpaceOnUse", x1: 26.1673, y1: 51.0134, x2: 63.8807, y2: 13.3 },
+                React.createElement("stop", { offset: 8.09824e-7, style: {
+                        stopColor: "#6FC7DA",
+                    } }),
+                React.createElement("stop", { offset: 0.25, style: {
+                        stopColor: "#2B4B9B",
+                    } }),
+                React.createElement("stop", { offset: 0.3801, style: {
+                        stopColor: "#75509C",
+                    } }),
+                React.createElement("stop", { offset: 0.5, style: {
+                        stopColor: "#A6539B",
+                    } }),
+                React.createElement("stop", { offset: 0.5449, style: {
+                        stopColor: "#B84B80",
+                    } }),
+                React.createElement("stop", { offset: 0.599, style: {
+                        stopColor: "#C94060",
+                    } }),
+                React.createElement("stop", { offset: 0.6485, style: {
+                        stopColor: "#D63647",
+                    } }),
+                React.createElement("stop", { offset: 0.6918, style: {
+                        stopColor: "#DE2E32",
+                    } }),
+                React.createElement("stop", { offset: 0.7271, style: {
+                        stopColor: "#E32726",
+                    } }),
+                React.createElement("stop", { offset: 0.75, style: {
+                        stopColor: "#E52521",
+                    } }),
+                React.createElement("stop", { offset: 0.7915, style: {
+                        stopColor: "#E73823",
+                    } }),
+                React.createElement("stop", { offset: 0.8582, style: {
+                        stopColor: "#E94C25",
+                    } }),
+                React.createElement("stop", { offset: 0.9268, style: {
+                        stopColor: "#EA5827",
+                    } }),
+                React.createElement("stop", { offset: 1, style: {
+                        stopColor: "#EB5B28",
+                    } })),
+            React.createElement("path", { className: "st0", d: "M38.6,21.9c-2.6-2.6-6-4.2-9.7-4.4c-4.2-0.2-8.3,1.3-11.3,4.3c-5.7,5.7-5.7,15.1,0,20.8l23.9,23.9 c0.9,0.9,2.1,1.4,3.4,1.4c0,0,0,0,0,0c0,0,0,0,0,0c1.2,0,2.4-0.5,3.4-1.4l23.8-23.8c5.7-5.7,5.9-14.9,0.4-20.7 c-2.9-3.1-7-4.7-11.2-4.5c-3.7,0.2-7.3,1.8-9.9,4.4L50,23.3c-0.9,0.9-0.9,2.4,0,3.3l0,0c0.9,0.9,2.4,0.9,3.3,0l1.6-1.6 c1.9-1.9,4.5-2.9,7-2.9s5.1,1,7,2.9h0c4.3,3.5,4.6,9.5,0.7,13.4L45.1,63.1l0,0l0,0L21.1,39.2c-3.9-3.9-3.9-10.2,0-14.1h0 c1.9-1.9,4.5-2.9,7-2.9s5.1,1,7,2.9L48.2,38h-0.6c-1.3,0-2.4,1.1-2.4,2.4s1.1,2.4,2.4,2.4l8.7,0v0h0v-8.7c0-1.3-1.1-2.4-2.4-2.4h0 c-1.3,0-2.4,1.1-2.4,2.4v0.7l-9.2-9.1l0.1-0.1L38.6,21.9z" }),
+            React.createElement("linearGradient", { id: "SVGID_00000010279205650786104220000006930478483776854956_", gradientUnits: "userSpaceOnUse", x1: 13.682, y1: 62.2716, x2: 72.8134, y2: 3.1402 },
+                React.createElement("stop", { offset: 8.09824e-7, style: {
+                        stopColor: "#6FC7DA",
+                    } }),
+                React.createElement("stop", { offset: 0.25, style: {
+                        stopColor: "#2B4B9B",
+                    } }),
+                React.createElement("stop", { offset: 0.3801, style: {
+                        stopColor: "#75509C",
+                    } }),
+                React.createElement("stop", { offset: 0.5, style: {
+                        stopColor: "#A6539B",
+                    } }),
+                React.createElement("stop", { offset: 0.5449, style: {
+                        stopColor: "#B84B80",
+                    } }),
+                React.createElement("stop", { offset: 0.599, style: {
+                        stopColor: "#C94060",
+                    } }),
+                React.createElement("stop", { offset: 0.6485, style: {
+                        stopColor: "#D63647",
+                    } }),
+                React.createElement("stop", { offset: 0.6918, style: {
+                        stopColor: "#DE2E32",
+                    } }),
+                React.createElement("stop", { offset: 0.7271, style: {
+                        stopColor: "#E32726",
+                    } }),
+                React.createElement("stop", { offset: 0.75, style: {
+                        stopColor: "#E52521",
+                    } }),
+                React.createElement("stop", { offset: 0.7915, style: {
+                        stopColor: "#E73823",
+                    } }),
+                React.createElement("stop", { offset: 0.8582, style: {
+                        stopColor: "#E94C25",
+                    } }),
+                React.createElement("stop", { offset: 0.9268, style: {
+                        stopColor: "#EA5827",
+                    } }),
+                React.createElement("stop", { offset: 1, style: {
+                        stopColor: "#EB5B28",
+                    } })),
+            React.createElement("path", { style: {
+                    fill: "url(#SVGID_00000010279205650786104220000006930478483776854956_)",
+                }, d: "M82.1,12.5L82.1,12.5 c-5.1-5.1-12-7.9-19.3-7.6c-6.7,0.2-13,3.1-17.7,7.8l0,0c0,0-0.1,0-0.1,0l0,0c-5.2-5.2-12.3-8.1-19.7-7.9 c-6.6,0.3-12.7,2.9-17.4,7.6c-10.2,10.2-10.2,26.7,0,36.8l0.3,0.3l-0.1,0.1l3.7,3.7c0.9,0.9,2.3,0.9,3.2,0.1h0 c1-0.9,1.1-2.5,0.1-3.4l-0.4-0.4l0.1-0.1L11.2,46c-8.3-8.3-8.3-21.9,0-30.2c4-4,9.4-6.3,15.1-6.3c5.7,0,11.1,2.2,15.1,6.3l2.4,2.4 c0.7,0.7,1.8,0.7,2.5,0l2.4-2.4c8.3-8.3,21.9-8.3,30.2,0c8.3,8.3,8.3,21.9,0,30.2l-3.6,3.6l0.1,0.1l-28,27.9 c-1.2,1.2-3.3,1.2-4.5,0L27.6,62.5l1.1,0c1.4,0,2.5-1.2,2.5-2.6c0-1.4-1.2-2.5-2.6-2.5l-9.4,0.2l0,0l0,0l0.2,9.4 c0,1.4,1.2,2.5,2.6,2.5c1.4,0,2.5-1.2,2.5-2.6l0-0.8l18.3,18.2c1.2,1.2,3.2,1.2,4.5,0l34.7-34.6l-0.1-0.1l0.3-0.3 C92.3,39.2,92.3,22.6,82.1,12.5z" }))));
 };
 
 var Icon$M = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React.createElement("path", { d: "M82.31,13.14C77.65,8.48,71.48,5.93,64.9,5.93S52.12,8.5,47.46,13.16l-2.43,2.43l-2.47-2.47\r\n\t\tC37.9,8.46,31.69,5.87,25.1,5.87c-6.57,0-12.76,2.57-17.4,7.21C3.04,17.74,0.48,23.93,0.5,30.52c0,6.59,2.59,12.76,7.25,17.42\r\n\t\tl35.44,35.44c0.49,0.49,1.15,0.75,1.79,0.75c0.64,0,1.3-0.25,1.79-0.74l35.51-35.38c4.66-4.66,7.23-10.85,7.23-17.44\r\n\t\tC89.52,23.99,86.97,17.8,82.31,13.14z M78.69,44.41L44.97,77.99L11.33,44.35c-3.7-3.7-5.74-8.6-5.74-13.83s2.02-10.13,5.72-13.81\r\n\t\tc3.68-3.68,8.59-5.72,13.79-5.72c5.23,0,10.15,2.04,13.85,5.74l4.26,4.26c1,1,2.6,1,3.6,0l4.23-4.23c3.7-3.7,8.62-5.74,13.83-5.74\r\n\t\ts10.11,2.04,13.81,5.72c3.7,3.7,5.72,8.6,5.72,13.83C84.43,35.8,82.39,40.71,78.69,44.41z" })));
+    return (React.createElement(Svg, __assign({ xmlns: "http://www.w3.org/2000/svg", xmlnsXlink: "http://www.w3.org/1999/xlink", x: "0px", y: "0px", viewBox: "0 0 90 90", xmlSpace: "preserve" }, props),
+        React.createElement("style", { type: "text/css" }, "\n\t.st0{fill:url(#SVGID_LOGO90ROUND_);}\n\t.st1{fill:url(#SVGID_00000036243686468858793310000000630276973099152815_);}\n"),
+        React.createElement("g", { id: "LOGO90ROUND" },
+            React.createElement("linearGradient", { id: "SVGID_LOGO90ROUND_", gradientUnits: "userSpaceOnUse", x1: 26.1673, y1: 51.0134, x2: 63.8807, y2: 13.3 },
+                React.createElement("stop", { offset: 8.09824e-7, style: {
+                        stopColor: "#6FC7DA",
+                    } }),
+                React.createElement("stop", { offset: 0.25, style: {
+                        stopColor: "#2B4B9B",
+                    } }),
+                React.createElement("stop", { offset: 0.3801, style: {
+                        stopColor: "#75509C",
+                    } }),
+                React.createElement("stop", { offset: 0.5, style: {
+                        stopColor: "#A6539B",
+                    } }),
+                React.createElement("stop", { offset: 0.5449, style: {
+                        stopColor: "#B84B80",
+                    } }),
+                React.createElement("stop", { offset: 0.599, style: {
+                        stopColor: "#C94060",
+                    } }),
+                React.createElement("stop", { offset: 0.6485, style: {
+                        stopColor: "#D63647",
+                    } }),
+                React.createElement("stop", { offset: 0.6918, style: {
+                        stopColor: "#DE2E32",
+                    } }),
+                React.createElement("stop", { offset: 0.7271, style: {
+                        stopColor: "#E32726",
+                    } }),
+                React.createElement("stop", { offset: 0.75, style: {
+                        stopColor: "#E52521",
+                    } }),
+                React.createElement("stop", { offset: 0.7915, style: {
+                        stopColor: "#E73823",
+                    } }),
+                React.createElement("stop", { offset: 0.8582, style: {
+                        stopColor: "#E94C25",
+                    } }),
+                React.createElement("stop", { offset: 0.9268, style: {
+                        stopColor: "#EA5827",
+                    } }),
+                React.createElement("stop", { offset: 1, style: {
+                        stopColor: "#EB5B28",
+                    } })),
+            React.createElement("path", { className: "st0", d: "M38.6,21.9c-2.6-2.6-6-4.2-9.7-4.4c-4.2-0.2-8.3,1.3-11.3,4.3c-5.7,5.7-5.7,15.1,0,20.8l23.9,23.9 c0.9,0.9,2.1,1.4,3.4,1.4c0,0,0,0,0,0c0,0,0,0,0,0c1.2,0,2.4-0.5,3.4-1.4l23.8-23.8c5.7-5.7,5.9-14.9,0.4-20.7 c-2.9-3.1-7-4.7-11.2-4.5c-3.7,0.2-7.3,1.8-9.9,4.4L50,23.3c-0.9,0.9-0.9,2.4,0,3.3l0,0c0.9,0.9,2.4,0.9,3.3,0l1.6-1.6 c1.9-1.9,4.5-2.9,7-2.9s5.1,1,7,2.9h0c4.3,3.5,4.6,9.5,0.7,13.4L45.1,63.1l0,0l0,0L21.1,39.2c-3.9-3.9-3.9-10.2,0-14.1h0 c1.9-1.9,4.5-2.9,7-2.9s5.1,1,7,2.9L48.2,38h-0.6c-1.3,0-2.4,1.1-2.4,2.4s1.1,2.4,2.4,2.4l8.7,0v0h0v-8.7c0-1.3-1.1-2.4-2.4-2.4h0 c-1.3,0-2.4,1.1-2.4,2.4v0.7l-9.2-9.1l0.1-0.1L38.6,21.9z" }),
+            React.createElement("linearGradient", { id: "SVGID_00000010279205650786104220000006930478483776854956_", gradientUnits: "userSpaceOnUse", x1: 13.682, y1: 62.2716, x2: 72.8134, y2: 3.1402 },
+                React.createElement("stop", { offset: 8.09824e-7, style: {
+                        stopColor: "#6FC7DA",
+                    } }),
+                React.createElement("stop", { offset: 0.25, style: {
+                        stopColor: "#2B4B9B",
+                    } }),
+                React.createElement("stop", { offset: 0.3801, style: {
+                        stopColor: "#75509C",
+                    } }),
+                React.createElement("stop", { offset: 0.5, style: {
+                        stopColor: "#A6539B",
+                    } }),
+                React.createElement("stop", { offset: 0.5449, style: {
+                        stopColor: "#B84B80",
+                    } }),
+                React.createElement("stop", { offset: 0.599, style: {
+                        stopColor: "#C94060",
+                    } }),
+                React.createElement("stop", { offset: 0.6485, style: {
+                        stopColor: "#D63647",
+                    } }),
+                React.createElement("stop", { offset: 0.6918, style: {
+                        stopColor: "#DE2E32",
+                    } }),
+                React.createElement("stop", { offset: 0.7271, style: {
+                        stopColor: "#E32726",
+                    } }),
+                React.createElement("stop", { offset: 0.75, style: {
+                        stopColor: "#E52521",
+                    } }),
+                React.createElement("stop", { offset: 0.7915, style: {
+                        stopColor: "#E73823",
+                    } }),
+                React.createElement("stop", { offset: 0.8582, style: {
+                        stopColor: "#E94C25",
+                    } }),
+                React.createElement("stop", { offset: 0.9268, style: {
+                        stopColor: "#EA5827",
+                    } }),
+                React.createElement("stop", { offset: 1, style: {
+                        stopColor: "#EB5B28",
+                    } })),
+            React.createElement("path", { style: {
+                    fill: "url(#SVGID_00000010279205650786104220000006930478483776854956_)",
+                }, d: "M82.1,12.5L82.1,12.5 c-5.1-5.1-12-7.9-19.3-7.6c-6.7,0.2-13,3.1-17.7,7.8l0,0c0,0-0.1,0-0.1,0l0,0c-5.2-5.2-12.3-8.1-19.7-7.9 c-6.6,0.3-12.7,2.9-17.4,7.6c-10.2,10.2-10.2,26.7,0,36.8l0.3,0.3l-0.1,0.1l3.7,3.7c0.9,0.9,2.3,0.9,3.2,0.1h0 c1-0.9,1.1-2.5,0.1-3.4l-0.4-0.4l0.1-0.1L11.2,46c-8.3-8.3-8.3-21.9,0-30.2c4-4,9.4-6.3,15.1-6.3c5.7,0,11.1,2.2,15.1,6.3l2.4,2.4 c0.7,0.7,1.8,0.7,2.5,0l2.4-2.4c8.3-8.3,21.9-8.3,30.2,0c8.3,8.3,8.3,21.9,0,30.2l-3.6,3.6l0.1,0.1l-28,27.9 c-1.2,1.2-3.3,1.2-4.5,0L27.6,62.5l1.1,0c1.4,0,2.5-1.2,2.5-2.6c0-1.4-1.2-2.5-2.6-2.5l-9.4,0.2l0,0l0,0l0.2,9.4 c0,1.4,1.2,2.5,2.6,2.5c1.4,0,2.5-1.2,2.5-2.6l0-0.8l18.3,18.2c1.2,1.2,3.2,1.2,4.5,0l34.7-34.6l-0.1-0.1l0.3-0.3 C92.3,39.2,92.3,22.6,82.1,12.5z" }))));
 };
 
 var Icon$L = function (props) {
@@ -4022,23 +4204,23 @@ var templateObject_1;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#1FC7D4",
-    primaryBright: "#53DEE9",
-    primaryDark: "#0098A1",
-    secondary: "#7645D9",
+    primary: "#75509C",
+    primaryBright: "#6FC7DA",
+    primaryDark: "#2B4B9B",
+    secondary: "#A6539B",
     success: "#31D0AA",
     warning: "#FFB237",
 };
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", backgroundAlt: "#FFFFFF", contrast: "#191326", dropdown: "#F6F6F6", invertedContrast: "#FFFFFF", input: "#eeeaf4", inputSecondary: "#d7caec", tertiary: "#EFF4F5", text: "#452A7A", textDisabled: "#BDC2C4", textSubtle: "#8f80ba", borderColor: "#E9EAEB", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FAF9FA", backgroundDisabled: "#E9EAEB", backgroundAlt: "#FFFFFF", contrast: "#191326", dropdown: "#F6F6F6", invertedContrast: "#FFFFFF", input: "#eeeaf4", inputSecondary: "#d7caec", tertiary: "#EFF4F5", text: "#2B4B9B", textDisabled: "#BDC2C4", textSubtle: "#75509C", borderColor: "#E9EAEB", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
         cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
         blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
         violet: "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)",
     } });
-var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#9A6AFF", background: "#100C18", backgroundDisabled: "#3c3742", backgroundAlt: "#27262c", contrast: "#FFFFFF", dropdown: "#1E1D20", invertedContrast: "#191326", input: "#483f5a", inputSecondary: "#66578D", primaryDark: "#0098A1", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#A28BD4", borderColor: "#524B63", gradients: {
+var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "#6FC7DA", background: "#100C18", backgroundDisabled: "#3c3742", backgroundAlt: "#27262c", contrast: "#FFFFFF", dropdown: "#1E1D20", invertedContrast: "#191326", input: "#6FC7DA", inputSecondary: "#6FC7DA", primaryDark: "#2B4B9B", tertiary: "#353547", text: "#EAE2FC", textDisabled: "#666171", textSubtle: "#6FC7DA", borderColor: "#524B63", gradients: {
         bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
         cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
         blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
