@@ -10,7 +10,6 @@ export declare const links: ({
     href: string;
     initialOpenState?: undefined;
     items?: undefined;
-    status?: undefined;
 } | {
     label: string;
     icon: string;
@@ -20,25 +19,6 @@ export declare const links: ({
         href: string;
     }[];
     href?: undefined;
-    status?: undefined;
-} | {
-    label: string;
-    icon: string;
-    href: string;
-    status: LinkStatus;
-    initialOpenState?: undefined;
-    items?: undefined;
-} | {
-    label: string;
-    icon: string;
-    items: {
-        label: string;
-        href: string;
-        status: LinkStatus;
-    }[];
-    href?: undefined;
-    initialOpenState?: undefined;
-    status?: undefined;
 } | {
     label: string;
     icon: string;
@@ -48,7 +28,6 @@ export declare const links: ({
     }[];
     href?: undefined;
     initialOpenState?: undefined;
-    status?: undefined;
 })[];
 export declare const socials: {
     label: string;
